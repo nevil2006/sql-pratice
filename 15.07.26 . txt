@@ -1,0 +1,20 @@
+Q1.Create a database named CollegeDB.
+
+Q2.Create a table Students with:
+
+student_id
+name
+age
+
+Q3.Create a table Books with:
+
+book_id
+title
+author
+price
+
+Q4.Create a table Courses with:
+
+course_id
+course_name
+duration
